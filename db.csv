@@ -1,54 +1,41 @@
-nombre,cantidad,estrato,diametro,distancia,asociado,especial
-Ají dulce regional,0,1,1,"0,8",yuca,
-Ojito de pescado,0,1,1,"0,8","yuca, piña, plátano, camote, soya, maíz.",
-Piña,0,1,"0,7","1,25","maíz, yuca, plátano, marañón, pijuayo, macambo, uvilla, umarí, castaña, cedro, huasaí, palta, carambola, coco, ishpingo, tornillo, caoba, palo rosa.",Bordes de caminos exteriores
-Uncucha,0,1,0.5,"0,9",,Bordes de los caminos interiores
-Yuca,0,1,1,"Sembrar sobre cantero de 20 a 25cm de altura. En suelos fértiles 1.2m entre hileras y 1m entre plantas, en suelos medianamente fértiles 1 entre hileras y 1 entre plantas, en asociaciones las distancias pueden ser mayores.",,
-Corazón de motelo,0,1,1,,,
-Chacruna,0,2,2,,,
-Cocona,0,2,2,3 x 3,"maíz, chiclayo, frijol, yuca, plátano, piña, caimito, guaba, pijuayo, cedro, añallu caspi.",
-Frijol palo,0,2,1.2,"1,2",,Nitrogeno: distribuir omogeneamente a lo largo del area
-Naranja,0,2,5,7 x 7 y 8 x 4,"maíz, algodón, sésamo, yuca, maní, frijol, cedro.",
-Girasol pequeño,100,2,0.5,,,Fósforo: distribuir omogeneamente a lo largo del area
-Anona,12,3,6,4 x 4 o 5 x 5 en plantas injertadas,"& arroz, maíz, yuca, plátano, piña, pijuayo, huasai, coco, palta, tornillo, cedro.",
-Arazá,15,3,4,6 x 6 o 6 x 12,"arroz, maíz, caupí, yuca, plátano, pijuayo, huasaí, pashaco cutano, añallu caspi",
-Cacao,10,3,6,3 x 4 o 4 x 4,"arroz, maíz, yuca, plátano, frijol, pimienta, caoba, maracuya, papaya, copoazu, guaba, huasaí, coco, pijuayo, abus, añallu caspi, pashaco cutano.",
-Camu camu,15,3,3,4 x 4 a 6 x 6,"arroz, maíz, frijol, chiclayo, ",
-Canela,10,3,5,2.5 entre surcos y 2 entre plantas,,
-Carambola,15,3,5,7 a 9 metros entre hileras y 5 a 7 entre árboles,,
-Copoazú,25,3,8,6 x 6 o 7 x 7,"yuca, plátano, piña, pijuayo, cedro, marupá y huayruro.
-.","50% de sombra, así que considerar solapamiento para esta especie"
-Guanabana,0,3,6,6 x 6 o 7 x 7 en cuadrado o tresbolillo.,"arroz, maíz, frijol o caupi, plátano, huasaí, caoba, pashaco cutano.",
-Humarí,0,3,10,"5 x 5, 8 x 8 o 12 x 12 dependiendo de la intensidad del cultivo.","arroz, chiclayo, yuca, plátano, uvilla, pijuayo, aguaje, palo de rosa, cedro, tornillo, castaña, marupá, cedro, caoba, ishpingo, pashaco cutano, añallu caspi.",
-Macambo,0,3,7,10 x 5 o 12 x  6,"yuca, plátano, piña, guaba, marañón, pijuayo, uvilla, palta, carambola, castaña, ishpingo y tornillo.",
-Moringa,0,3,5,cada 2 m (cultivos no agrof),,
-Pacae,10,3,3_5,,,Nitrogeno: distribuir omogeneamente a lo largo del area
-Palto,15,3,14,8 x 8 ,,
-Papaya,50,3,2,6 x 6 ,"arroz, maíz, maní, frijol, yuca, plátano, huasaí, coco, palta, caoba, añallu caspi.",
-Pomarrosa,15,3,6,10 x 10,,
-Pomelo,12,3,5,8 x 8,"maní forrajero, crotalaria, guandú, cedro.",
-Toé,10,3,2,2 x 2,"arroz, frejol, hortalizas.",
-Limón,12,3,5,,,
-Platano,20,3,2,3 x 3 o 3.5 x 3.5,"fríjol, yuca, frejol palo, maíz, cedro, chontaquiro",potasio: distribuir omogeneamente a lo largo del area
-Shimbillo,20,3,5_7,,,Nitrogeno: distribuir omogeneamente a lo largo del area
-Aguaje,10,4,6,12 a 24,"arroz, maíz, yuca, plátano, piña, marañón, uvilla, umarí y leche caspi",
-Sapote,0,4,,12 x 12,"arroz, maíz, frijol, yuca, plátano, caimito, papaya, huasaí, pijuayo, carambola, palta, cacao, cítricos, coco, castaña, caoba, huasaí.",
-Mango,15,4,10,10 x 10 o 12 x 12,,
-Pijuayo,25,4,5,Para prod palmito: 2m entre hileras y 1m entre plantas (5000plantas/Ha). Para prod frutos 6 x 5 (333pl/Ha) o 6 x 6 (277pl/Ha).,"piña, maracuya, guaraná, papaya, yuca, plátano,  marañón, umarí, tornillo, castaña, huayruro. ",Fósforo: distribuir omogeneamente a lo largo del area
-Sinamillo,0,4,5,,,
-Pan de arbol,10,4,10,,,
-Coco,15,4,5,9 x 9 o 10 x 10,"yuca, alfalfa, cedro.",Fósforo: distribuir omogeneamente a lo largo del area
-Huasai brasilero / palmito,17,4,5,Para prod palmito:  2 x 2 (2500 cepas/ha). Para prod frutos: 5 x 5 (400 cepas/ha),"arroz, chiclayo, maíz, camu camu, yuca, plátano, caoba, capirona, sangre de grado y shiringa.",Fósforo: distribuir omogeneamente a lo largo del area
-Sangre grado,1,5,7,6 x 6 y 7 x 7,"aguano, cedro, tornillo, cacao y achiote.",
-Castaña,1,5,18,25 x 10 o 25 x 15,"pimienta, cacao, guaraná, yuca, plátano, piña, marañón, uvilla, pijuayo, cedro, umarí, tornillo, huayruro, shimbillo. ",
-Copaiba,1,5,12,"10 x 10, en hileras de 7 x 7","yuca, plátano, café, cacao, achiote, arazá.",
-Vainilla,0,liana,crece hasta las copas de los estratos medios del bosque,2 plantones junto a cada árbol de apoyo. Densidad de 400 - 1100 plantas/Ha.,"plátano, cacao, copoazú, palta.",
-Uña de gato,0,liana,depende del soporte,4 x 3,"sangre de grado, aguano, cedro, capirona, bolaina",
-Sacha Inchi,0,liana,depende del soporte,"3 x 3 o 3 x 2.5. Las plantas deben estar entre 10 a 15cm de los tutores vivos instalados sin espaldera.
-En el caso de tutores muertos con espalderas, la planta
-deberá ubicarse en el centro de los dos tutores muertos.","algodón, plátano, fríjol, maíz, yuca, maní, frijoles",
-Maracuyá,0,liana,depende del soporte,"3-4,5 m entre hileras y de 4,5-6 m entre plantas","Excelentes resultados asociado con Paullinia cupana y con Bactris gasipaes. También puede asociarse con arroz, frijol, soya, cacao, melón, charapilla, shimbillo, pijuayo.",
-Canavalia,0,liana,cobertura de suelo,,,
-Granadilla,0,liana,,"cada dos hileras de espalderas, se alternarán con una hilera de árboles del estrato medio y alto, espaciados, 12m. entre hileras y 6m. entre plantas.","maíz, arroz, caupí o frijol, yuca, pijuayo, huasaí, añallu caspi, pashaco cutano.",
-Tumbo,0,liana,depende del soporte,6 m entre plantas y de 3 m entre bordes de los emparrados. ,"Ideal asociado a Inga edulis que funciona como soporte y aporta nitrógeno al sistema. También asociado a yuca, piña, pijuayo, umarí y castaña.",
-Ayahuasca,0,liana,depende del soporte,3 x 3,"cedro, tornillo, moena, marupa, palto y castaña",
+nombre,cantidad,area,piso,enredadera,productividad,estrato,N,P,K,Ca,"Tipo de planta  L=Leñosa arborea      l= Leñosa arbustiva  NL =no leñosa (graminea, rizomatoza,  etc),  P= palmera, T = trepadora, enredadera",medicinal,frutal,aromatico,otros_usos,inundacion,sequia,salinidad,acidez,1,2,3,4,5,6,7,8,9,10,11,12,% de sombra que tolera ,Tiempo antes de la primera producción (meses),Tiempo de recambio o reemplazo (años),Distanciamiento recomendado (m),Tamaño del dosel (diámetro en metros),Altura de planta (metros)
+Aguaje,0,"28,3",0,0,"21,22",4,0,0,0,0,P,1,1,0,1,1,0,0,0,2,2,2,2,2,2,2,2,1,1,1,2,0,90,45,18,6,25
+Ají dulce regional,0,"0,8",2,0,"7,93",1,0,0,0,0,l,1,1,1,1,0,1,0,0,0,0,0,0,0,2,2,2,2,0,0,0,0,3,3,1,1,1
+Anona,0,"28,3",2,0,"1,7",3,0,0,0,0,L,1,1,0,0,0,0,0,1,1,2,2,2,1,2,2,0,1,1,1,1,0,60,20,5,6,8
+Arazá,0,"12,6",2,0,"2,74",3,0,0,0,0,l,0,1,0,0,1,0,0,1,1,1,2,2,1,1,1,0,1,2,1,1,1,18,15,7,4,9
+Ayahuasca,0,7,2,1,"12,86",,0,0,0,0,T ,1,0,0,0,1,0,0,0,2,2,2,2,2,2,2,2,2,2,2,2,1,72,6,3,3,13
+Cacao,0,"28,3",2,0,"0,25",3,0,0,0,0,L,0,1,0,0,1,0,0,1,0,0,1,0,2,2,2,0,2,1,1,0,1,60,11,4,6,8
+Camu camu,0,"7,1",0,0,"58,36",3,0,0,0,0,l,0,1,0,0,1,1,0,0,1,2,2,2,1,0,1,0,1,0,1,1,0,36,15,5,3,6
+Carambola,0,"19,6",2,0,"8,96",3,0,0,0,0,L,0,1,0,0,0,1,0,0,1,2,2,2,2,2,1,0,1,1,2,1,0,42,20,7,5,10
+Castaña,1,"201,1",1,0,"26,86",5,0,0,0,0,L,0,1,0,1,0,0,0,1,0,1,2,2,2,0,1,0,1,1,0,0,0,72,30,15,16,40
+Chacruna,0,"3,1",2,0,"25,46",2,0,0,0,0,l,1,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,24,-,1,2,3
+Coco,2,"19,6",0,0,"1,68",5,0,0,0,0,P,0,1,0,0,0,0,1,0,2,2,2,2,2,2,2,0,0,0,0,0,0,60,50,10,5,30
+Cocona,12,"3,1",2,0,"4,14",2,0,0,0,0,l,0,1,0,0,0,0,0,1,2,2,2,2,2,2,2,0,2,1,1,1,0,6,1,3,2,2
+Copaiba,0,"113,1",2,0,"9,55",5,0,0,0,0,L,1,0,1,1,0,0,0,1,2,0,0,0,0,0,0,0,2,2,2,2,1,96,30,8,12,28
+Copoazú,10,"38,5",2,0,"2,99",3,0,0,0,0,L,0,1,0,1,0,1,0,0,0,0,2,2,1,1,0,0,1,1,1,1,1,42,10,7,7,6
+Corazón de motelo,15,"0,8",2,0,"0,57",1,0,0,0,0,l,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,12,3,2,1,1
+Frijol palo,10,"1,4",2,0,"11,88",2,1,0,0,0,l,0,1,0,1,0,0,0,1,2,2,2,2,0,0,0,0,0,0,2,2,0,24,10,1,1,3
+Granadilla,15,7,2,1,"5,71",,0,0,0,0,T,0,1,0,0,0,0,0,1,2,2,2,2,2,2,2,2,2,2,2,2,0,14,9,3,2,8
+Limón,25,"19,6",2,0,"5,6",2,0,0,0,0,l,0,1,0,1,0,1,0,0,2,2,2,2,2,2,2,2,2,2,2,2,1,48,15,5,5,5
+Mango,0,"78,5",2,0,"19,1",4,0,0,0,0,L,0,1,0,0,0,1,0,0,2,2,2,0,0,0,0,0,0,2,2,2,0,96,20,11,10,20
+Maracuyá,0,7,2,1,19,,0,0,0,0,T,0,1,0,0,0,0,0,1,2,2,2,2,2,2,2,0,0,1,1,1,0,9,4,5,3,10
+Naranja,0,"19,6",1,0,"3,63",3,0,0,0,0,l,0,1,0,0,0,0,0,1,0,0,2,2,2,2,2,2,2,2,0,0,0,72,20,6,5,8
+Girasol pequeño,0,"1,8",2,0,0,2,0,1,1,1,NL  ,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,6,10,2,2,3
+Ojito de pescado,10,"0,8",2,0,"19,1",1,0,0,0,0,NL,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,6,3,1,1,1
+Pacae,15,"28,3",2,0,"3,98",3,1,0,0,0,L,0,1,0,1,0,0,0,1,0,0,0,2,2,2,2,0,0,0,0,0,0,48,15,6,6,13
+Palto,50,"63,6",1,0,"1,17",3,0,0,0,0,L,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,2,2,2,2,0,0,42,20,8,14,12
+Pan de arbol,15,"78,5",2,0,"12,1",4,0,0,0,0,L,1,1,0,1,1,0,0,0,2,2,2,2,2,2,2,2,2,2,2,2,1,90,25,10,10,26
+Papaya,12,"3,1",2,0,"11,46",3,0,0,0,0,NL,0,1,0,0,0,0,0,1,1,1,1,2,2,2,2,1,1,1,1,1,0,9,3,6,2,9
+Pijuayo,10,"19,6",2,0,"3,82",4,0,0,0,0,P,0,1,0,1,0,0,0,1,2,2,2,2,2,2,0,0,1,1,0,0,0,42,20,6,5,20
+Piña,12,"0,5",2,0,"9,05",1,0,0,0,0,NL,0,1,0,1,0,0,0,1,1,2,2,1,2,1,1,1,1,1,1,0,1,13,5,1,1,1
+Platano,20,"3,1",2,0,"3,44",2,0,0,1,0,NL,0,1,0,0,0,0,0,1,2,2,2,2,2,2,2,2,2,2,2,2,1,9,1,3,2,6
+Pomarrosa,20,"28,3",2,0,"14,85",3,0,0,0,0,L,0,1,0,0,0,1,0,0,1,1,1,1,1,1,1,1,1,2,1,1,0,48,25,10,6,10
+Pomelo,10,"19,6",2,0,"7,16",3,0,0,0,0,L,0,1,0,0,0,0,1,1,0,0,0,0,0,1,1,1,1,0,0,0,0,48,20,8,5,5
+Sacha Inchi,0,7,2,1,"6,17",,0,0,0,0,T,0,1,0,0,0,0,0,1,0,0,0,2,2,2,0,0,0,0,0,0,0,8,7,3,3,2
+Sangre grado,1,"38,5",2,0,"5,26",5,0,0,0,0,L,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,2,2,0,0,1,90,18,7,7,24
+Sapote,25,"113,1",2,0,"7,37",4,0,0,0,0,L,0,1,0,1,1,1,0,0,1,1,2,2,2,1,0,0,0,0,0,0,1,102,18,12,12,20
+Shimbillo,0,"28,3",2,0,"3,09",3,1,0,0,0,L,0,1,0,1,0,0,0,1,0,1,2,2,2,2,1,0,1,0,0,0,0,54,15,5,6,16
+Uncucha,10,"0,4",2,0,"9,47",1,0,0,0,0,NL,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,11,1,1,1,2
+Uña de gato,15,7,1,1,"3,96",,0,0,0,0,T,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,90,10,4,3,20
+Huasai brasilero / palmito,17,"19,6",2,0,"24,45",4,0,0,0,0,P,0,1,0,1,1,0,0,0,0,0,0,0,0,0,2,2,2,1,1,1,1,60,20,5,5,30
+Yuca,1,"0,6",2,0,"2,81",1,0,0,0,0,NL,0,1,0,0,0,1,0,1,2,2,0,0,0,2,2,2,2,2,2,2,1,9,1,1,1,2
